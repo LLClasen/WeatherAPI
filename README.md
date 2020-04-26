@@ -6,4 +6,4 @@ The program prompts the user for their city or zip code and requests weather for
 
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/openweather-negative-logo-RGB.png" title="OWM Logo">
 
-<img src="https://openweathermap.org/themes/openweathermap/assets/img/openweather-negative-logo-RGB.png" width="250" height="168" title="OWM Logo">
+<img src="https://openweathermap.org/themes/openweathermap/assets/img/openweather-negative-logo-RGB.png" width="100" height="75" title="OWM Logo">
